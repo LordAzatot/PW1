@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\bin\Debug\LW№1-КОРОТИЧ_МАКСИМ.exe.config
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\bin\Debug\LW№1-КОРОТИЧ_МАКСИМ.exe
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\bin\Debug\LW№1-КОРОТИЧ_МАКСИМ.pdb
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\obj\Debug\LW№1-КОРОТИЧ_МАКСИМ.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\obj\Debug\LW№1-КОРОТИЧ_МАКСИМ.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\obj\Debug\LW№1-КОРОТИЧ_МАКСИМ.exe
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№1-КОРОТИЧ_МАКСИМ\LW№1-КОРОТИЧ_МАКСИМ\obj\Debug\LW№1-КОРОТИЧ_МАКСИМ.pdb
